@@ -1,0 +1,27 @@
+{
+  "name": "trabajo-entregable---backend-55625",
+  "version": "1.0.0",
+  "main": "productManager.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agus476/Trabajo-entregable---Backend-55625.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agus476/Trabajo-entregable---Backend-55625/issues"
+  },
+  "homepage": "https://github.com/agus476/Trabajo-entregable---Backend-55625#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "description": ""
+}
